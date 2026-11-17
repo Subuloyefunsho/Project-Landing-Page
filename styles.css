@@ -75,7 +75,7 @@ header ul li{
 
 .random-info{
     background-color: white;
-    padding: 80px 120px;
+    padding: 100px 120px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -113,4 +113,29 @@ header ul li{
     text-align: center;
     color: #1F2937;
     line-height: 1.5em;
+}
+
+.quote{
+    padding: 100px 120px;
+    background-color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+}
+
+.quote-wrapper{
+    width: 835px;
+    display: flex;
+    flex-direction: column;
+}
+
+.word-quote{
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.author{
+    margin-left: auto;
+    font-weight: 900;
 }
