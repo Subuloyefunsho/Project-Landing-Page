@@ -38,8 +38,7 @@ header ul li{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    flex-wrap: wrap;
-    gap: 50px;
+    gap: 20px;
 }
 
 .hero-text{
