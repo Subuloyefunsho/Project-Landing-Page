@@ -6,7 +6,7 @@
 }
 header{
     background-color: #1F2937;
-    padding: 12px 120px;
+    padding: 12px 200px;
     display: flex;
     justify-content: space-between;
 
@@ -34,7 +34,7 @@ header ul li{
 
 .hero{
     background-color: #1F2937;
-    padding: 80px 120px;
+    padding: 80px 200px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -76,7 +76,7 @@ button{
 
 .random-info{
     background-color: white;
-    padding: 100px 120px;
+    padding: 100px 200px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -117,7 +117,7 @@ button{
 }
 
 .quote{
-    padding: 100px 120px;
+    padding: 100px 200px;
     background-color: #E5E7EB;
     display: flex;
     justify-content: center;
@@ -142,7 +142,7 @@ button{
 }
 
 .cta{
-    padding: 100px 120px;
+    padding: 100px 200px;
 }
 
 .blue-bg{
@@ -176,4 +176,17 @@ button{
 .blue-bg button{
     border: 2px solid white;
     padding: 2px 20px;
+}
+
+footer{
+    background-color: #1F2937;
+    padding: 30px 200px;
+    display: flex;
+    justify-content: center;
+    color: #E5E7EB;  
+}
+
+footer p{
+    font-size: 15px;
+    text-align: center;
 }
